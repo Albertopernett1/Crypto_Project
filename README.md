@@ -131,7 +131,7 @@ plot_correlation_matrix(final_df, 'ape')
 plot_correlation_matrix(final_df, 'chz')
 plot_correlation_matrix(final_df, 'dash')
 ```
-2 . Seguido realice un grafico de tendencias el cual nos es útil para observar datos que se muestran a lo largo del tiempo. Este tipo de gráficos es muy útil para observar patrones, cambios y tendencias en cada uno de los datos reflejados, de informaciones que se recopilan entre días, meses anos etc.
+2 . Seguido realice un grafico de tendencias el cual nos es útil para observar datos que se muestran a lo largo del tiempo. Este tipo de gráficos es muy útil para observar patrones, cambios y tendencias en cada uno de los datos reflejados, de informaciones que se recopilan entre días, meses años etc.
 
 ```python
 from sklearn.preprocessing import MinMaxScaler
